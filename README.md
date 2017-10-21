@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>PDS</title>
+</head>
 <body>
 <h1><center>Sistema Bibliotecário</center></h1>
 
@@ -44,4 +49,4 @@ O Sistema deve informar quando houver a falta de livros de um determinado empré
 
 </li>
 </body>
-
+</html>
