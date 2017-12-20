@@ -22,7 +22,11 @@ Casos de uso:
 	<a href="FazerReserva.html"> <li>Fazer Reserva</li></a>
 	<a href="ValorEmprestimo.html"> <li>Valor do Empréstimo</li></a>
 	<a href="RenovacaoLivro.html"> <li>Renovar Empréstimo do Livro</li></a>
+</ol>
+Diagramas de OO:
+<ol>
 	<a href="analise.html"> <li>Diagrama de Análise</li></a>
+	<a href="projeto.html"> <li>Diagrama de Projeto</li></a>
 </ol>
 
 <center><img src="PDS.png"></center>
