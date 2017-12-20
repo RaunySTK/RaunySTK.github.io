@@ -2,7 +2,6 @@
 <html lang="pt-br">
 <head>
 	<meta charset="utf-8">
-	<title>PDS</title>
 </head>
 <body>
 <h1><center>Sistema Bibliotecário</center></h1>
